@@ -6,7 +6,7 @@
   <li>matplotlib.pyplot</li>
 </ul>
 <h2>2. Fontes</h2>
-  Fonte oficial dos dados: https://archive.ics.uci.edu/ml/datasets/bank+marketing
+  Fonte oficial dos dados: https://archive.ics.uci.edu/ml/datasets/bank+marketing <br>
   Dados: https://archive.ics.uci.edu/ml/machine-learning-databases/00222/bank.zip
 <hr>
 <h3>Observações sobre a resolução do case</h3>
