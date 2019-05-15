@@ -1,5 +1,7 @@
 <h1>README</h1>
-<h2>1. Bibliotecas utilizadas</h2>
+<h2>1. Linguagem utilizada</h2>
+<p>Python</p><br>
+<h3>1.1. Bibliotecas utilizadas</h3>
 <ul>
   <li>numpy</li>
   <li>pandas</li>
